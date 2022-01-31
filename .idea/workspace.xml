@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf53408b-8dc1-4597-894b-15de85b997e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Feedback/Feedback.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Feedback/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeedbackOptions/FeedbackOptions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeedbackOptions/FeedbackOptions.styled.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeedbackOptions/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/Notification.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/Notification.styled.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Statistics/Statistics.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Statistics/Statistics.styled.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Statistics/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JavaScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23ZOYdb75bs2ILKM6W2ZAWWH9Qa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goit-react-hw-01-components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/FeedbackOptions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf53408b-8dc1-4597-894b-15de85b997e8" name="Changes" comment="" />
+      <created>1641938190280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641938190280</updated>
+      <workItem from="1641938191990" duration="2304000" />
+      <workItem from="1642013871417" duration="6298000" />
+      <workItem from="1642066882459" duration="660000" />
+      <workItem from="1642072853517" duration="941000" />
+      <workItem from="1642097558320" duration="342000" />
+      <workItem from="1642104929495" duration="3401000" />
+      <workItem from="1642108664789" duration="2972000" />
+      <workItem from="1642147231166" duration="1842000" />
+      <workItem from="1642405248534" duration="44000" />
+      <workItem from="1642450537854" duration="1005000" />
+      <workItem from="1642489328088" duration="9451000" />
+      <workItem from="1642576099535" duration="14000" />
+      <workItem from="1642627546961" duration="1355000" />
+      <workItem from="1642667797616" duration="502000" />
+      <workItem from="1643385271722" duration="640000" />
+      <workItem from="1643460452834" duration="116000" />
+      <workItem from="1643658260498" duration="3265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
