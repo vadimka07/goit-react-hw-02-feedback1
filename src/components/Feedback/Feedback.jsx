@@ -21,8 +21,7 @@ class Feedback extends Component {
 
     countPositiveFeedbackPercentage = () => {
         const { good } = this.state;
-        const positivePercentageFeedback = ( good * 100 / this.countTotalFeedback() ).toFixed( 0 );
-        return positivePercentageFeedback;
+        return ( good * 100 / this.countTotalFeedback() ).toFixed( 0 ) + '%';
     }
 
     handleClick = ( e ) => {
@@ -52,3 +51,4 @@ class Feedback extends Component {
 }
 
 export default Feedback;
+
