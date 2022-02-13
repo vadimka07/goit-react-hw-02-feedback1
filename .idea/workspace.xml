@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cf53408b-8dc1-4597-894b-15de85b997e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Feedback/Feedback.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feedback/Feedback.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/FeedbackOptions/FeedbackOptions.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FeedbackOptions/FeedbackOptions.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Notification/Notification.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notification/Notification.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Statistics/Statistics.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Statistics/Statistics.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UDemy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goit-react-hw-02-phonebook" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -73,10 +71,21 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="prepare" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="prepare" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
+        <item itemvalue="npm.prepare" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +114,7 @@
       <workItem from="1643385271722" duration="640000" />
       <workItem from="1643460452834" duration="116000" />
       <workItem from="1643658260498" duration="4537000" />
-      <workItem from="1644148433588" duration="5619000" />
+      <workItem from="1644148433588" duration="5953000" />
     </task>
     <servers />
   </component>
